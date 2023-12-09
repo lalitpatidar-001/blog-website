@@ -1,0 +1,31 @@
+.containerr{
+    box-shadow: 20px 20px 30px rgba(72, 67, 67,0.2);
+    border: 2px solid rgba(0, 0, 0, 0.3) ;
+    padding: 5px;
+}
+
+.image{
+    border-radius: 10px;
+}
+
+.post_text{
+    font-weight: 400;
+}
+.heading{
+    font-weight: 500;
+}
+.author{
+font-weight: 700;
+}
+span{
+    font-weight: 400;
+}
+
+.details{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 90%;
+    word-wrap: break-word;
+
+}

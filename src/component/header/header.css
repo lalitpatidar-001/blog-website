@@ -1,0 +1,29 @@
+.container{
+    
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+  
+}
+
+.img_logo{
+    margin-top: 7px;
+    width: 70px;
+    height: 40px;
+    object-fit: cover;
+    zoom: 140%;
+    filter: contrast(130%),brightness(120%);
+}
+
+a{
+    padding: 15px;
+    color: #000;
+    text-decoration: none;
+    font-weight:bold;
+    transition: all ease-in-out  0.5s;
+    
+}
+a:hover{
+    color:red;
+    transform: scale(3);
+  }
